@@ -1,0 +1,16 @@
+ Chicago-using crime data to mark safe places for people to visit
+
+Background:
+
+Chicago officially the City of Chicago, is the most populous city in Illinois, as well as the third most populous city in the United States. With an estimated population of 2,716,450 (2017), it is the most populous city in the Midwest.  Chicago is the principal city of the Chicago metropolitan area, often referred to as Chicagoland, the county seat of Cook County, the second most populous county in the United States.  The metropolitan area, at nearly 10 million people, is the third-largest in the United States.
+There are miles of beautiful Chicago beaches, Chicago museums that rank among the world's best and the friendliest city-dwellers out there. With so much to see and do,it can be tough for visitors to decide which Chicago attractions are really worth experiencing. 
+Whether we are an out-of-towner or a tried-and-true Chicagoan planning a staycation, 
+Oh, and if we are feeling decadent, we must cap off our day of sightseeing with a meal 
+at one of the best restaurants in Chicago.
+
+Business problem:
+
+people usually try to search for restaurants which are *affordable*, near to them and has basic facilities like parking, 
+air conditioning, etc. But usually, people don't consider the factor called safety. Hence a system which recommends safe places
+to visit would really help people and also help in the reduction of crime in Chicago. Police can use this exploratory 
+data to keep a check of public areas where crime is committed more and help in reducing it.
