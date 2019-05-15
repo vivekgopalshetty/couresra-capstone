@@ -14,3 +14,7 @@ people usually try to search for restaurants which are *affordable*, near to the
 air conditioning, etc. But usually, people don't consider the factor called safety. Hence a system which recommends safe places
 to visit would really help people and also help in the reduction of crime in Chicago. Police can use this exploratory 
 data to keep a check of public areas where crime is committed more and help in reducing it.
+
+we would form clusters of crime data locations and then find all nearest venues to it ,if venues are in overlappings of multiple clusters 
+then we would mark it more dangerous and so on.This will help us to integrate safety into our database of venues and also we will also consider
+factors such as venue is verified or not what kind of people visit such places etc. for recomeneding venues.
